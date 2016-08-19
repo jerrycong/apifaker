@@ -1,3 +1,10 @@
+# TODO
+1. 解决请求体是json格式问题，如
+"{""head"": {""appid"":""e321fkjiokj8c0ij"",""token"":""f5678hyyhhjfdyt2016ds""},""body"": {""name"":""张三"",""peopleID"":""32042119450901X"",""gender"":""男"",""birthday"":""1945-09-01"",""nation"":""汉族"",""education"":""本科"",""marryStatus"":""已婚"",""telephone"":""9998877"",""regAddrCode"":""320421"",""regAddr"":""江苏省苏州市吴江区吴门璐9号"",""nowAddrCode"":""320521"",""nowAddr"":""江苏省苏州市姑苏区天虹路99号"",""photo"":""634uijref89r034487931uioewjkljru3893433iojejue9rq03rioj3uredf90uoiajfkldjfxczojfu90eiojwu90diojferu90ieopwqjou90reoeqw90ojrqewiopejwqw9r0opjeklfdaoddjforu9oqjasdasfodfsajopfdlasiower90""}}
+"			
+2. 添加api文档生成功能
+
+
 # Api Faker
 这里可以查看示例：[http://demo.apifaker.com/~apifaker/](http://demo.apifaker.com/~apifaker/)
 
